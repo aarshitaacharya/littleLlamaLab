@@ -10,6 +10,9 @@ This repository is a collection of small-scale projects designed for exploration
 1. **Glow Mouse**
    - This  project transforms your cursor into a magical spotlight, illuminating the screen with a delightful play of light. As you move your mouse, watch the gentle glow follow your every step, creating a captivating performance on the screen.
 
+2. **Image Slider**
+   - An enchanting image slider project, created with HTML and CSS, that seamlessly showcases a captivating sequence of images in a visually appealing and interactive slideshow.
+
 
 ## Getting Started
 
