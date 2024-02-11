@@ -1,5 +1,5 @@
 # Little Llama Lab 
-Welcome to Little Llama Lab – a cozy space for mini coding adventures!
+Welcome to Little Llama Lab – a cozy space for mini-coding adventures!
 
 ## Overview
 
@@ -12,6 +12,9 @@ This repository is a collection of small-scale projects designed for exploration
 
 2. **Image Slider**
    - An enchanting image slider project, created with HTML and CSS, that seamlessly showcases a captivating sequence of images in a visually appealing and interactive slideshow.
+
+3. **Spell Checker**
+   - A spell-checking tool designed in Python, featuring a sleek interface with red error highlighting to efficiently identify and correct spelling errors in text, ensuring polished and error-free content.
 
 
 ## Getting Started
