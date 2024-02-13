@@ -15,6 +15,9 @@ This repository is a collection of small-scale projects designed for exploration
 
 3. **Spell Checker**
    - A spell-checking tool designed in Python, featuring a sleek interface with red error highlighting to efficiently identify and correct spelling errors in text, ensuring polished and error-free content.
+  
+4. **Theme Switcher**
+   - A dynamic theme-changing project implemented in HTML, CSS, and JavaScript, providing users with the flexibility to seamlessly switch between dark, light, and solar themes, enhancing visual comfort and customization on the fly.
 
 
 ## Getting Started
