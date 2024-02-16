@@ -19,6 +19,8 @@ This repository is a collection of small-scale projects designed for exploration
 4. **Theme Switcher**
    - A dynamic theme-changing project implemented in HTML, CSS, and JavaScript, providing users with the flexibility to seamlessly switch between dark, light, and solar themes, enhancing visual comfort and customization on the fly.
 
+5. **Scroll Highlighter**
+   -Elevate your scrolling experience, where text magically lights up as you scroll down and gracefully fades as you scroll back up, adding a touch of enchantment to your browsing journey.
 
 ## Getting Started
 
