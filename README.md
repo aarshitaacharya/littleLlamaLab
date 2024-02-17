@@ -27,7 +27,7 @@ This repository is a collection of small-scale projects designed for exploration
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
 
 ```bash
-git clone https://github.com/your-username/littleLlamaLab.git
+git clone https://github.com/aarshitaacharya/littleLlamaLab.git
 cd little-llama-lab
 ```
 
