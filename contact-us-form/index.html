@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <div class="contact-container">
+        <form action="https://api.web3forms.com/submit" method="POST" class = contact-left>
+            <div class="contact-left-title">
+                <h2> Get in touch!</h2>
+                <hr>
+            </div>
+            <input type="hidden" name="access_key" value="53fd8c2d-fee5-4b64-8463-a48a978b03bb">
+            <input type="text" name="name" placeholder="Your Full Name" class = contact-inputs required>
+
+            <input type="email" name="email" placeholder="Your email" class = contact-inputs required>
+
+            <textarea name ="message" placeholder="Your message" class =contact-inputs required></textarea>
+
+            <button type="submit">Submit <img src ="/images/img1.jpg"></button>
+        </form>
+        <div class="contact-right">
+            <img src = "/images/img2.png">
+
+        </div>
+    </div>
+</body>
+</html>
