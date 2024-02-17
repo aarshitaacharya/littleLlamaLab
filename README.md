@@ -25,6 +25,9 @@ This repository is a collection of small-scale projects designed for exploration
 6. **To-Do List**
    - Elevate your to-do list experience with this minimalist task manager. Enjoy easy task tracking with check/uncheck functionality, and your progress is saved seamlessly using local storage.
 
+7. **Contact Form**
+   - A user-friendly Contact Us website allowing visitors to send messages directly. Experience seamless communication as messages are effortlessly sent to your designated email, making reaching out a breeze.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
