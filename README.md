@@ -22,6 +22,9 @@ This repository is a collection of small-scale projects designed for exploration
 5. **Scroll Highlighter**
    - Elevate your scrolling experience, where text magically lights up as you scroll down and gracefully fades as you scroll back up, adding a touch of enchantment to your browsing journey.
 
+6. **To-Do List**
+   - Elevate your to-do list experience with this minimalist task manager. Enjoy easy task tracking with check/uncheck functionality, and your progress is saved seamlessly using local storage.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
