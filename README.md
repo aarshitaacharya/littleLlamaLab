@@ -28,6 +28,9 @@ This repository is a collection of small-scale projects designed for exploration
 7. **Contact Form**
    - A user-friendly Contact Us website allowing visitors to send messages directly. Experience seamless communication as messages are effortlessly sent to your designated email, making reaching out a breeze.
 
+8. **Weather App**
+   - Explore the forecast with WeatherWise, a dynamic weather app. Stay informed with real-time updates, detailed forecasts, and an intuitive interface, ensuring you're prepared for any weather scenario
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
