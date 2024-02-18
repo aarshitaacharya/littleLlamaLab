@@ -29,7 +29,10 @@ This repository is a collection of small-scale projects designed for exploration
    - A user-friendly Contact Us website allowing visitors to send messages directly. Experience seamless communication as messages are effortlessly sent to your designated email, making reaching out a breeze.
 
 8. **Weather App**
-   - Explore the forecast with WeatherWise, a dynamic weather app. Stay informed with real-time updates, detailed forecasts, and an intuitive interface, ensuring you're prepared for any weather scenario
+   - Explore the forecast with WeatherWise, a dynamic weather app. Stay informed with real-time updates, detailed forecasts, and an intuitive interface, ensuring you're prepared for any weather scenario.
+
+9. **Quiz App**
+    - Dive into the world of animated knowledge with a fun and interactive cartoon quiz app. Test your wit, explore captivating questions, and enjoy a playful learning experience.
 
 ## Getting Started
 
