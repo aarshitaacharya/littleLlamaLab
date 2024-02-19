@@ -32,7 +32,10 @@ This repository is a collection of small-scale projects designed for exploration
    - Explore the forecast with WeatherWise, a dynamic weather app. Stay informed with real-time updates, detailed forecasts, and an intuitive interface, ensuring you're prepared for any weather scenario.
 
 9. **Quiz App**
-    - Dive into the world of animated knowledge with a fun and interactive cartoon quiz app. Test your wit, explore captivating questions, and enjoy a playful learning experience.
+   - Dive into the world of animated knowledge with a fun and interactive cartoon quiz app. Test your wit, explore captivating questions, and enjoy a playful learning experience.
+
+10 **Password Generator**
+   - Elevate your password security with a robust password generator. Craft strong and unique passwords effortlessly, ensuring your online accounts stay protected in style and copy them easily.
 
 ## Getting Started
 
