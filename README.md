@@ -34,8 +34,11 @@ This repository is a collection of small-scale projects designed for exploration
 9. **Quiz App**
    - Dive into the world of animated knowledge with a fun and interactive cartoon quiz app. Test your wit, explore captivating questions, and enjoy a playful learning experience.
 
-10 **Password Generator**
-   - Elevate your password security with a robust password generator. Craft strong and unique passwords effortlessly, ensuring your online accounts stay protected in style and copy them easily.
+10. **Password Generator**
+    - Elevate your password security with a robust password generator. Craft strong and unique passwords effortlessly, ensuring your online accounts stay protected in style and copy them easily.
+
+12. **Notes App**
+    - Organize your thoughts seamlessly with a sleek notes app. Effortlessly jot down ideas, create to-do lists, and stay organized in a user-friendly interface designed to enhance your note-taking experience.
 
 ## Getting Started
 
