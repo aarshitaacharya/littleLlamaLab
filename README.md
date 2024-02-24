@@ -37,8 +37,11 @@ This repository is a collection of small-scale projects designed for exploration
 10. **Password Generator**
     - Elevate your password security with a robust password generator. Craft strong and unique passwords effortlessly, ensuring your online accounts stay protected in style and copy them easily.
 
-12. **Notes App**
+11. **Notes App**
     - Organize your thoughts seamlessly with a sleek notes app. Effortlessly jot down ideas, create to-do lists, and stay organized in a user-friendly interface designed to enhance your note-taking experience.
+   
+12. **Age Calculator**
+    - Swiftly calculate your age with a user-friendly age calculator. Easily determine your age or the age of others with just a few clicks, making birthday celebrations and milestones more memorable.
 
 ## Getting Started
 
