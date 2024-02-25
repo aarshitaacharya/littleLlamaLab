@@ -43,6 +43,9 @@ This repository is a collection of small-scale projects designed for exploration
 12. **Age Calculator**
     - Swiftly calculate your age with a user-friendly age calculator. Easily determine your age or the age of others with just a few clicks, making birthday celebrations and milestones more memorable.
 
+13. **Mini Game**
+    - Embark on an adventurous journey with a captivating game inspired by the Google Chrome offline dinosaur. Jump and dash your way through obstacles, collecting points, and see how far you can take your mini dino in this delightful gaming experience.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
