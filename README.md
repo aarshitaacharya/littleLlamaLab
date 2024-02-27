@@ -45,6 +45,9 @@ This repository is a collection of small-scale projects designed for exploration
 
 13. **Mini Game**
     - Embark on an adventurous journey with a captivating game inspired by the Google Chrome offline dinosaur. Jump and dash your way through obstacles, collecting points, and see how far you can take your mini dino in this delightful gaming experience.
+   
+14. **Quote Generator**
+    - Elevate your Twitter game with a dynamic quote generator that not only sparks inspiration but also lets you share your favorite quotes seamlessly on Twitter, spreading positivity and wisdom with just a click.
 
 ## Getting Started
 
