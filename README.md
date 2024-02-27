@@ -50,7 +50,7 @@ This repository is a collection of small-scale projects designed for exploration
     - Elevate your Twitter game with a dynamic quote generator that not only sparks inspiration but also lets you share your favorite quotes seamlessly on Twitter, spreading positivity and wisdom with just a click.
 
 15. **QR Generator**
-    -Create quick and customizable QR codes for URLs or text, simplifying information sharing and enhancing accessibility in a snap.
+    - Create quick and customizable QR codes for URLs or text, simplifying information sharing and enhancing accessibility in a snap.
 
 ## Getting Started
 
