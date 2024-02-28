@@ -51,6 +51,9 @@ This repository is a collection of small-scale projects designed for exploration
 
 15. **QR Generator**
     - Create quick and customizable QR codes for URLs or text, simplifying information sharing and enhancing accessibility in a snap.
+   
+16. **Toast Notifications**
+    - Experience sleek and customizable toast notifications and enhance user interaction by effortlessly displaying non-intrusive notifications, adding a touch of elegance to your web applications.
 
 ## Getting Started
 
