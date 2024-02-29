@@ -54,6 +54,9 @@ This repository is a collection of small-scale projects designed for exploration
    
 16. **Toast Notifications**
     - Experience sleek and customizable toast notifications and enhance user interaction by effortlessly displaying non-intrusive notifications, adding a touch of elegance to your web applications.
+   
+17. **Music Player**
+    - Keep it simple and melodious with a minimalist music player designed for one song at a time, providing a clean and focused audio experience for your favorite track.
 
 ## Getting Started
 
