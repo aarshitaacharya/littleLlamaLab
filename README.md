@@ -58,6 +58,9 @@ This repository is a collection of small-scale projects designed for exploration
 17. **Music Player**
     - Keep it simple and melodious with a minimalist music player designed for one song at a time, providing a clean and focused audio experience for your favorite track.
 
+18. **Stop Watch**
+    - Harness the power of precision with a straightforward stopwatch. Track time effortlessly, whether for workouts or productivity and enjoy a seamless and accurate timing experience.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
