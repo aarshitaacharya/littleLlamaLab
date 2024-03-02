@@ -61,6 +61,9 @@ This repository is a collection of small-scale projects designed for exploration
 18. **Stop Watch**
     - Harness the power of precision with a straightforward stopwatch. Track time effortlessly, whether for workouts or productivity and enjoy a seamless and accurate timing experience.
 
+19. **Calculator**
+    - Crunch numbers with ease using CalculatorX. A simple and efficient calculator for your everyday arithmetic, making calculations a breeze with its user-friendly interface.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
