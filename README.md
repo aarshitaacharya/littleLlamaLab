@@ -64,6 +64,9 @@ This repository is a collection of small-scale projects designed for exploration
 19. **Calculator**
     - Crunch numbers with ease using CalculatorX. A simple and efficient calculator for your everyday arithmetic, making calculations a breeze with its user-friendly interface.
 
+20. **Pop Up**
+    - A simple 'Thank You' popup that appears when you click the submit button. Enhance user experience by expressing appreciation in a delightful way.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
