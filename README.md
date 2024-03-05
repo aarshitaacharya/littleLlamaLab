@@ -70,6 +70,9 @@ This repository is a collection of small-scale projects designed for exploration
 21. **Image Gallery**
     - Explore a captivating image gallery featuring sliders for seamless navigation, creating a dynamic and interactive viewing experience.
 
+22. **Form Validator**
+    - Ensures accurate data submissions through seamless validation, providing users with real-time feedback and a smooth form-filling experience.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
