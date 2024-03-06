@@ -79,6 +79,9 @@ This repository is a collection of small-scale projects designed for exploration
 24. **Password Strength**
     - Enhance your security with a basic password strength tool. Quickly assess your password's strength based on length, receiving instant feedback on whether it's weak, medium, or strong.
 
+25. **Coming Soon Page**
+    - A website is down or is coming soon. Meanwhile, watch the countdown timer ticking down to our website's temporary hiatus.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
