@@ -73,6 +73,9 @@ This repository is a collection of small-scale projects designed for exploration
 22. **Form Validator**
     - Ensures accurate data submissions through seamless validation, providing users with real-time feedback and a smooth form-filling experience.
 
+23. **Email Subscription**
+    - Simplify your subscription process with a subscription form that seamlessly adds email entries to a Google Sheets list. Streamline your mailing list management and effortlessly grow your subscriber base.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
