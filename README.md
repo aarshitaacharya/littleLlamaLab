@@ -82,6 +82,9 @@ This repository is a collection of small-scale projects designed for exploration
 25. **Coming Soon Page**
     - A website is down or is coming soon. Meanwhile, watch the countdown timer ticking down to our website's temporary hiatus.
 
+26. **Background Image Removal Effect**
+    - Experience a captivating background image removal effect and witness the illusion as two images seamlessly overlap, creating a stunning visual transition right before your eyes.
+
 ## Getting Started
 
 Clone the repository to your local machine and explore the projects individually. Each project is contained within its directory, with necessary instructions and resources.
